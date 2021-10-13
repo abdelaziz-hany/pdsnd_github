@@ -4,10 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+post project on github
 
 ### Description
-Describe what your project is about and what it does
+how to post project on github by multiple branches
 
 ### Files used
 Include the files used
